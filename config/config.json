@@ -1,0 +1,16 @@
+{
+    "images": {
+        "cameraman": {
+            "path": "../data/cameraman.tif"
+        },
+        "coins": {
+            "path": "../data/coins.png"
+        },
+        "peppers": {
+            "path": "../data/peppers.png"
+        },
+        "rice": {
+            "path": "../data/rice.png"
+        }
+    }
+}

@@ -11,6 +11,9 @@
         },
         "rice": {
             "path": "../data/rice.png"
+        },
+        "partE": {
+            "path": "../data/partE.jpg"
         }
     }
 }
